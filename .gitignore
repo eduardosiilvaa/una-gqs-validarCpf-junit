@@ -1,0 +1,6 @@
+
+#### Arquivo `.gitignore`
+```gitignore
+target/
+.idea/
+*.iml
